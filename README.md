@@ -1,16 +1,38 @@
-# Pemrograman-Visual
-Aplikasi ini adalah aplikasi penyewaan mobil berbasis SwiftUI, yang memungkinkan pengguna untuk menambah, mengedit, dan menghapus daftar mobil yang tersedia untuk disewa.
-Fitur Utama:
-- Menampilkan Daftar Mobil
-- Menambahkan Mobil Baru
-- Mengedit Data Mobil
-- Menghapus Mobil dari Daftar
-- Navigasi dan Antarmuka Interaktif
+# 🚗 RentalMobil Admin System
 
-Teknologi yang Digunakan:
-- SwiftUI: Untuk membangun antarmuka pengguna yang responsif.
-- ObservableObject & StateObject: Untuk mengelola data dan memperbarui tampilan secara real-time.
-- Identifiable & List: Untuk menampilkan daftar mobil dengan fitur interaktif seperti edit dan hapus.
-- NavigationView & Sheet: Untuk navigasi antar tampilan dalam aplikasi.
+Aplikasi sistem informasi penyewaan mobil berbasis web yang dirancang khusus untuk admin rental. Sistem ini membantu pengelolaan mobil, pelanggan, transaksi penyewaan, serta laporan pendapatan dan statistik operasional.
 
-  mohon maaf saya sementara menggunakan swift, karena mau menggunakan c# visual studio saya masih error.
+## 🧰 Fitur Utama
+
+- **Dashboard Admin**
+  - Statistik penyewaan
+  - Grafik pendapatan bulanan
+  - Jumlah mobil aktif & rusak
+
+- **Manajemen Mobil**
+  - Tambah, edit, hapus data mobil
+  - Upload foto & update status mobil
+
+- **Manajemen Pelanggan**
+  - Data pelanggan
+  - Riwayat penyewaan
+  - Verifikasi dokumen (KTP/SIM)
+
+- **Transaksi Penyewaan**
+  - Sewa & pengembalian mobil
+  - Hitung otomatis durasi & denda
+  - Cetak struk PDF
+
+- **Laporan & Arsip**
+  - Laporan harian/bulanan/tahunan
+  - Ekspor PDF & Excel
+  - Filter berdasarkan tanggal atau pelanggan
+
+- **Notifikasi**
+  - Pengingat pengembalian
+  - Servis berkala kendaraan
+
+- **Manajemen Akun**
+  - Multi-admin login
+  - Hak akses (role admin & staff)
+
