@@ -1,8 +1,8 @@
-# 🚗 RentalMobil Admin System
+#  Rental Mobil Admin System
 
 Aplikasi sistem informasi penyewaan mobil berbasis web yang dirancang khusus untuk admin rental. Sistem ini membantu pengelolaan mobil, pelanggan, transaksi penyewaan, serta laporan pendapatan dan statistik operasional.
 
-## 🧰 Fitur Utama
+##  Fitur Utama
 
 - **Dashboard Admin**
   - Statistik penyewaan
