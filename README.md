@@ -1,6 +1,9 @@
 # RentalMobil Admin System
 
-## LINK FIGMA: ![image](https://github.com/user-attachments/assets/2ea98cab-8b47-4866-a3d4-a06929b47fc8)
+## LINK FIGMA: https://www.figma.com/design/EEu33iJdQklU5SmeuZuOEy/Provis-UI-Penyewaan-Mobil?node-id=1-18&t=m38YA4tXWiUMlvjd-1
+
+
+![image](https://github.com/user-attachments/assets/2ea98cab-8b47-4866-a3d4-a06929b47fc8)
 
 
 Aplikasi sistem informasi penyewaan mobil berbasis web yang dirancang khusus untuk admin rental. Sistem ini membantu pengelolaan mobil, pelanggan, transaksi penyewaan, serta laporan pendapatan dan statistik operasional.
