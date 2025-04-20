@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|d:\\wildan\\rentalmobiladminapp\\rentalmobiladminapp\\rentalmobiladminapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|solutionrelative:rentalmobiladminapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|d:\\wildan\\rentalmobiladminapp\\rentalmobiladminapp\\rentalmobiladminapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|solutionrelative:rentalmobiladminapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|d:\\wildan\\rentalmobiladminapp\\rentalmobiladminapp\\rentalmobiladminapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|solutionrelative:rentalmobiladminapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|d:\\wildan\\rentalmobiladminapp\\rentalmobiladminapp\\rentalmobiladminapp\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|solutionrelative:rentalmobiladminapp\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|d:\\wildan\\rentalmobiladminapp\\rentalmobiladminapp\\rentalmobiladminapp\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|solutionrelative:rentalmobiladminapp\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|d:\\wildan\\rentalmobiladminapp\\rentalmobiladminapp\\rentalmobiladminapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0DCEB7-E6F9-4E87-B4CB-73D19967BD70}|RentalMobilAdminApp\\RentalMobilAdminApp.csproj|solutionrelative:rentalmobiladminapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "RentalMobilAdminApp\\DashboardForm.cs",
+              "ToolTip": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\DashboardForm.cs",
+              "RelativeToolTip": "RentalMobilAdminApp\\DashboardForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:09:39.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "RentalMobilAdminApp\\DashboardForm.cs",
+              "ToolTip": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "RentalMobilAdminApp\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:08:00.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\Program.cs",
+              "RelativeDocumentMoniker": "RentalMobilAdminApp\\Program.cs",
+              "ToolTip": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\Program.cs",
+              "RelativeToolTip": "RentalMobilAdminApp\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:29:50.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "RentalMobilAdminApp\\LoginForm.cs",
+              "ToolTip": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\LoginForm.cs",
+              "RelativeToolTip": "RentalMobilAdminApp\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:29:31.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "RentalMobilAdminApp\\LoginForm.cs",
+              "ToolTip": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "RentalMobilAdminApp\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:29:24.696Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\Database.cs",
+              "RelativeDocumentMoniker": "RentalMobilAdminApp\\Database.cs",
+              "ToolTip": "D:\\Wildan\\RentalMobilAdminApp\\RentalMobilAdminApp\\RentalMobilAdminApp\\Database.cs",
+              "RelativeToolTip": "RentalMobilAdminApp\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:18:55.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
