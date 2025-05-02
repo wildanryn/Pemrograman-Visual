@@ -42,3 +42,4 @@ D:\Wildan\RentalMobilAdminApp\RentalMobilAdminApp\RentalMobilAdminApp\bin\Debug\
 D:\Wildan\RentalMobilAdminApp\RentalMobilAdminApp\RentalMobilAdminApp\obj\Debug\RentalMo.475A809C.Up2Date
 D:\Wildan\RentalMobilAdminApp\RentalMobilAdminApp\RentalMobilAdminApp\obj\Debug\RentalMobilAdminApp.exe
 D:\Wildan\RentalMobilAdminApp\RentalMobilAdminApp\RentalMobilAdminApp\obj\Debug\RentalMobilAdminApp.pdb
+D:\Wildan\RentalMobilAdminApp\RentalMobilAdminApp\RentalMobilAdminApp\obj\Debug\RentalMobilAdminApp.MobilForm.resources
